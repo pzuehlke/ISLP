@@ -7,7 +7,6 @@
 *.tex
 *.sty
 *.synctex.gz
-*.svg
 data/
 logs/
 lightning_logs/

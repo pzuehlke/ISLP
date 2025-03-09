@@ -1,22 +1,23 @@
-# ISLP - Solutions to Exercises
+# ISLP &ndash; Solutions to Applied Exercises
 
 ## Overview
 
-This repository contains solutions to the _applied_ exercises from the book:
+This repository contains solutions to the applied exercises from the book:
 
-G. James, D. Witten, T. Hastie, and R. Tibshirani &ndash; [_An Introduction to Statistical Learning with Applications in Python_](https://www.statlearning.com/) &ndash; Springer (2023)
+G. James, D. Witten, T. Hastie, R. Tibshirani, and  J. Taylor &ndash; [_An Introduction to Statistical Learning with Applications in Python_](https://www.statlearning.com/) &ndash; Springer (2023)
 
-The book and all associated resources can be downloaded _for free_ from the website linked above.
+The book and all associated resources can be downloaded _for free_ from the website linked to above.
 
 ## Structure
 
-Each solution consists of a separate interactive Jupyter notebook, and the solutions are organized in dedicated folders corresponding to each chapter.
+Each solution consists of a separate interactive Jupyter notebook. The solutions are organized in dedicated folders corresponding to each chapter which also contain the necessary datasets and auxiliary files.
 
-Click on any individual notebook link below for direct access to it via [NBViewer](https://nbviewer.org/), where it can be downloaded by clicking on <img src="download_icon.svg" width="16" height="16" alt="download icon"> at the top right.
+You can download the entire repository by clicking on <img src="code.png" width="38" height="16" alt="the Code button" style="position: relative; top: 2px;"> at the top of this page and then selecting "Download ZIP".
 
-If you prefer, you can also download the entire repository by clicking on the green "Code" button at the top of this page and then selecting "Download ZIP". 
+Alternatively, use the individual links below for direct access to a specific notebook via [NBViewer](https://nbviewer.org/), where it can be downloaded by clicking on <img src="download_icon.svg" width="16" height="16" alt="download icon"> at the top right. However, note that most of the notebooks use an external dataset which must also be downloaded and placed in the same directory as the downloaded notebook if you actually want to run the code (not merely read it).
 
-## Solutions to applied exercises
+
+## Solutions
 
 2. [Chapter 2: Statistical Learning](https://github.com/pzuehlke/ISLP/tree/main/chapter_02_exercises)
    - [Exercise 8](https://nbviewer.org/github/pzuehlke/ISLP/blob/main/chapter_02_exercises/chapter_02_exercise_08.ipynb)
@@ -101,23 +102,25 @@ If you prefer, you can also download the entire repository by clicking on the gr
     - [Exercise 7](https://nbviewer.org/github/pzuehlke/ISLP/blob/main/chapter_13_exercises/chapter_13_exercise_07.ipynb)
     - [Exercise 8](https://nbviewer.org/github/pzuehlke/ISLP/blob/main/chapter_13_exercises/chapter_13_exercise_08.ipynb)
 
-## Requirements
+## Dependencies
 
 In order to run the code in the notebooks, you will need to have the following packages installed (besides Python 3.x):
 
+* Jupyter
 * NumPy
 * pandas
 * scikit-learn
-* SciPy
+* PyTorch
 * statsmodels
 * Matplotlib
 * Seaborn
-* Jupyter
+* SciPy
+* SymPy
 * ISLP (a package by Prof. Jonathan Taylor, one of the co-authors)
 
 The easiest way to satisfy all requirements is to follow the [installation instructions](https://intro-stat-learning.github.io/ISLP/installation.html) that can be found on the book's website.
 
-In the solutions I have tried as much as possible not to rely on ISLP, since it is not a standard Python package. However, at a few points its use is unavoidable (e.g., sometimes an exercise explicitly asks you to use it or it is needed to load some dataset).
+In the solutions I have tried as much as possible not to rely on the ISLP package, since it is not as standard as the other ones. However, at a few points its use is unavoidable (e.g., sometimes an exercise explicitly asks you to use it or it is needed to load some dataset).
 
 ## Contributing
 
