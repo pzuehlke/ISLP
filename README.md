@@ -12,7 +12,7 @@ The book and all associated resources can be downloaded _for free_ from the webs
 
 Each solution consists of a separate interactive Jupyter notebook.  Solutions are organized by chapter into corresponding folders which contain all the datasets and auxiliary files necessary to run the code.
 
-To download the entire repository, click on <a href="#"><img src="code.png" width="48" height="20" alt="the Code button" style="position: relative; top: 3px;"></a> at the top of this page and select "Download ZIP". If you merely want to read/view a specific solution, use the links below for direct access.
+To download the entire repository, click on <img src="code.png" width="48" height="20" alt="the Code button" style="position: relative; top: 3px;"></a> at the top of this page and select "Download ZIP". If you merely want to read/view a specific solution, use the links below for direct access.
 
 ## Solutions
 
