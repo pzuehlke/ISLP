@@ -8,6 +8,8 @@
 *.sty
 *.synctex.gz
 data/
+datasets/
+labs/
 logs/
 lightning_logs/
 **/images/
