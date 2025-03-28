@@ -2,11 +2,11 @@
 
 ## Overview
 
-This repository contains solutions to the applied exercises from the book:
+This repository contains solutions to all applied exercises from the book:
 
 G. James, D. Witten, T. Hastie, R. Tibshirani, and  J. Taylor &ndash; [_An Introduction to Statistical Learning with Applications in Python_](https://www.statlearning.com/) &ndash; Springer (2023)
 
-The book and all associated resources can be downloaded _for free_ from the website linked to above.
+The book and all associated resources can be downloaded _for free_ from the website linked to above.  A complete set of [108 video lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ) by the authors, covering all of the chapters and Python labs, is also available on Youtube.
 
 ## Structure
 
