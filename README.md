@@ -117,7 +117,7 @@ In order to run the code in the notebooks, you will need to have the following p
 
 The easiest way to satisfy all requirements is to follow the [installation instructions](https://intro-stat-learning.github.io/ISLP/installation.html) that can be found on the book's website.
 
-In the solutions I have tried as much as possible not to rely on the ISLP package, since it is not as standard as the other ones. However, at a few points its use is unavoidable (e.g., sometimes an exercise explicitly asks you to use it or it is needed to load some dataset).
+I have tried as much as possible not to rely on the ISLP package, since it is not as standard as the other ones. However, at a few points its use is unavoidable (e.g., sometimes an exercise explicitly asks you to use it or it is needed to load some dataset).
 
 ## Contributing
 
